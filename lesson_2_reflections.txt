@@ -36,3 +36,10 @@ The diagrams help us understand at what point the branching occurred. It helps u
 When two branches are merged together, you get a single branch that contains the changes from both of the branches since they last split up.
 
 The diagram is useful to keep track of the changes that were made along a single branch.
+
+
+# What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros - having to manually merge files would be a huge pain!
+
+cons - it's not always clear what the final output is going to be!
