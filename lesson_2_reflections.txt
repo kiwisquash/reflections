@@ -12,3 +12,27 @@ The staging area can contain subset of files within a repository.
 The stating area doesn't really make sense unless the working directory is a repository.
 
 Staging area can be used to break up a commit into individual files.
+
+
+# How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area lets you see a review of changes you are about to commit.
+
+
+# What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches are useful when there is some radical change to the code, such as adding new experimental feature. It can also be used when you want to create a different version of the program altogether.
+
+Branches make it easier to jump between the different version you are working on.
+
+
+# How do the diagrams help you visualize the branch structure?
+
+The diagrams help us understand at what point the branching occurred. It helps us understand which branches have or don’t have certain features.
+
+
+# What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+When two branches are merged together, you get a single branch that contains the changes from both of the branches since they last split up.
+
+The diagram is useful to keep track of the changes that were made along a single branch.
