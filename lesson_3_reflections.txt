@@ -23,3 +23,9 @@
 - the last known state helps us know whether any discrepancy between the current state of the remote and the current state of the local branch comes from changes that were made to the remote version.
 - this makes it easier for users to come up with merge conflicts.
 
+
+# How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+- lots of emails
+- easier: no commands to learn. no worrying about branches and pulls and commits. No need to run a sequence of command every time something happens!
+- harder: keeping track of versions and changes have to be done manually.
