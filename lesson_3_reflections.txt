@@ -16,3 +16,10 @@
 - clone: I want a copy a github repository on my local machine.
 
 - branch: I'm working on my own project, and I want to experiment while backing up a working version somewhere. 
+
+
+# What is the benefit of having a copy of the last known state of the remote stored locally?
+
+- the last known state helps us know whether any discrepancy between the current state of the remote and the current state of the local branch comes from changes that were made to the remote version.
+- this makes it easier for users to come up with merge conflicts.
+
