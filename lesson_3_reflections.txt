@@ -7,3 +7,12 @@
 # Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 - Don't want to upload partially fixed / working / unfinished repo
+
+
+# Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+- fork: I want to clone X's repository on github, so that I can build on top of X's work, keeping my work public, without messing up X's work.
+
+- clone: I want a copy a github repository on my local machine.
+
+- branch: I'm working on my own project, and I want to experiment while backing up a working version somewhere. 
