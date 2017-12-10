@@ -29,3 +29,8 @@
 - lots of emails
 - easier: no commands to learn. no worrying about branches and pulls and commits. No need to run a sequence of command every time something happens!
 - harder: keeping track of versions and changes have to be done manually.
+
+
+# When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Making changes in a separate branch will make sure that there will always be a functional master. Making changes in the master directly means avoiding a bunch of git commands at the risk of breaking the master.
